@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.flex-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 60px 50px;
+}
+.half-width img{
+    width: 80%;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background: #FF5959;
+    padding: 10px 40px;
+    border-radius: 30px;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 50px;
+}
+.second-part h2{
+    font: bolder;
+    text-align: center;
+}
+.border{
+    border-left: 5px solid orangered;
+    
+}
+.orange{
+    color: orange;
+}
+
+#mission{
+    background:#EEF6F7;
+    width: 30%;
+    border-radius: 20px;
+    height: 360px;
+    width: 376px;
+    padding: 10px 10px;
+    margin-left: 10%;
+    padding: 5px, 10px;
+    height: 360px;
+    width: 376px;
+
+}
+#mission img{
+    height: 141px;
+    width: 141px;
+}
+#mission p{
+    font-size: 16px;
+}
+#vision{
+    background: #FFEFEF;
+    width: 30%;
+    border-radius: 20px;
+    height: 360px;
+    width: 376px;
+    padding: 10px 10px;
+    margin-left: 5%;
+    padding: 5px, 10px;
+    height: 360px;
+    width: 376px;
+
+}
+#vision img{
+    height: 141px;
+    width: 141px;
+}
+#vision p{
+    font-size: 16px;
+}
+#goals{
+    background: #FFF4D6;
+    width: 30%;
+    border-radius: 20px;
+    height: 360px;
+    width: 376px;
+    padding: 10px 10px;
+    margin-left: 5%;
+    padding: 5px, 10px;
+    height: 360px;
+    width: 376px;
+
+}
+#goals img{
+    height: 141px;
+    width: 141px;
+}
+#goals p{
+    font-size: 16px;
+}
+
+.third-part{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10em;
+    background-position-y: 180px;
+
+}
+.third-part h1{
+    font-size: 65px;
+}
+
+
+.fourth-part{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15em;
+    background-position-x: 1100px;
+    background-position-y: 350px;
+}
+.fourth-part h1{
+    font-size: 65px;
+    font: bolder;
+}
+
+.newsletter{
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(41, 37, 37);
+    text-align: center;
+}
+footer h2{
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font: 400;
+    
+}
+footer p{
+    color: whitesmoke;
+}
+
+
+
